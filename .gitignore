@@ -1,5 +1,13 @@
+**/*.iml
+
+## Directory-based project format:
+.idea/*
+
 # Compiled class file
 *.class
+
+### Maven ###
+**/target/
 
 # Log file
 *.log
